@@ -1,0 +1,44 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&family=Style+Script&display=swap');
+
+#wrapper{
+	margin: auto;
+	text-align: center;
+	width: 500px;
+	height: 100px;
+}
+
+#searchQueryInput{
+	height: 100px;
+	text-align: center;
+}
+
+#searchBar{
+	margin: auto;
+	text-align: center;
+	padding-top: 20px;
+	width: 500px;
+}
+
+#intro0 {
+    background-image: url("../images/background.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+}
+#mask1{
+	height:100vh
+
+}
+.discription3{
+	font-family: 'Style Script', cursive;
+	color:rgb(255,255,255,0.8);
+    font-size: 80px;
+      width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+
+}

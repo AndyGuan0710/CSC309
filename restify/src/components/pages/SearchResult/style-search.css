@@ -1,0 +1,29 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Playfair+Display&family=Style+Script&display=swap');
+
+#card-main{
+	margin-top: 200px;
+}
+
+.checked {
+  color: orange;
+}
+
+#resultfound{
+	font-family: 'Lora', serif;
+	color: white;
+}
+
+#mask11{
+	min-height:100vh ;
+    height: auto;
+}
+.restaurantLikeButton{
+	background:transparent;
+	border:none;
+	outline:none;
+	cursor:pointer;
+}
+.restaurant_card_image{
+	min-height: 210px;
+}

@@ -1,0 +1,99 @@
+.blog-list{
+	font-family: 'Playfair Display', serif;
+	font-size: 18px;
+	font-weight: initial;
+	background-color: #FFFFFF;
+	background-image: url("../../Common/images/blog_bg.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size:cover;
+	color:rgb(255,255,255,0.8);
+	min-height: 100vh;
+	height: auto;
+}
+.container.mt-5{
+	background-color:rgb(0,0,0,0.7);
+	border-radius: 15px;
+}
+.a{
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.post_img{
+	width:90%;
+}
+
+i, .date, .like{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.fa-heart{
+	color:darkred;
+}
+
+.a:hover{
+	color:#c48d3b;
+}
+
+.text-link{
+	padding-top: 2rem;
+}
+
+.nav_btn.a{
+	color:#916839;
+}
+
+.nav_btn.a:hover{
+	color:#c48d3b;
+}
+
+h1{
+	margin-left:3rem;
+	margin-top: 1rem;
+	padding-top: 2rem;
+}
+
+.text-muted.h5{
+	margin-left:3rem;
+	margin-bottom: 2rem;
+}
+
+.button0 {
+ 	float: right;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 60px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button0 {
+  background-color: Transparent; 
+  color: white; 
+  border: 2px solid;
+  border-radius: 5px;
+  margin-right: 2%;
+  margin-left: 2%;
+  font-size: 18px;
+}
+
+.button0:hover {
+  background-color: white;
+  color: black;
+}
+.blogLikeButton{
+	background:transparent;
+	border:none;
+	outline:none;
+	/*display:block;*/
+	/*height:200px;*/
+	/*width:200px;*/
+	cursor:pointer;
+
+}

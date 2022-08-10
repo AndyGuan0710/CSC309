@@ -1,0 +1,96 @@
+
+#small_image.editRestaurant{
+	border-radius: 50%;
+	width: 30%;
+	height: 30%;	
+
+}
+	.contact.editRestaurant{
+		padding: 4%;
+		height: 400px;
+	}
+	.col-md-3.editRestaurant{
+		background: #ff9b00;
+		padding: 4%;
+		border-top-left-radius: 0.5rem;
+		border-bottom-left-radius: 0.5rem;
+	}
+	.contact-inf.editRestaurant{
+		margin-top:10%;
+	}
+	.contact-inf.editRestaurant img{
+		margin-bottom: 15%;
+	}
+	.contact-inf.editRestaurant h3{
+		margin-bottom: 10%;
+	}
+	.col-md-9.editRestaurant{
+		background: #fff;
+		padding: 3%;
+		border-top-right-radius: 0.5rem;
+		border-bottom-right-radius: 0.5rem;
+	}
+	.contact-formlabel.editRestaurant{
+		font-weight:600;
+	}
+	.button11{
+		background: #25274d;
+		color: #fff;
+		font-weight: 600;
+		width: 25%;
+	}
+    .button11:focus{
+		box-shadow:none;
+	}
+    #add_image.editRestaurant{
+    	padding: 5px 10px;
+    }
+ #mask1.editRestaurant{
+ 	height:100vh
+ }
+  #mask2.editRestaurant{
+ 	height:142vh
+ }
+
+ .button0.editRestaurant {
+ 	float: right;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+
+  text-decoration: none;
+  display: inline-block;
+  font-size: 60px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button0.editRestaurant {
+  background-color: #25274d;
+  color: white;
+  border: 2px solid;
+  border-radius: 5px;
+  margin-right: 2%;
+  margin-left: 2%;
+  font-size: 18px;
+}
+
+.button0.editRestaurant:hover {
+  background-color: #25274d;
+  color: black;
+}
+
+.hh3{
+	color: darkgray;
+}
+
+.control-label.editRestaurant{
+	font-size: 15px;
+}
+
+
+
+
+
+
+
