@@ -1,0 +1,7 @@
+cd p2
+./startup.sh
+./run.sh
+cd ..
+cd restify
+./startup.sh
+./run.sh
